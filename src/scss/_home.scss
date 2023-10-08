@@ -1,0 +1,9 @@
+.home{
+    min-height:calc(100vh - 128px); 
+    .card{
+        max-width: 800px;
+        margin: 0 auto;
+        border: 0;
+         box-shadow:  rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    }
+}
